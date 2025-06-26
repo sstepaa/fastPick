@@ -1,0 +1,14 @@
+# Ignora analisis exploratorio
+EDA/
+# Datos y credenciales
+data/
+*.csv
+*.xlsx
+*.txt
+*.json
+
+# Archivos de entorno
+__pycache__/
+*.pyc
+.env
+
